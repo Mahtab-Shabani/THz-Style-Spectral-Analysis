@@ -1,5 +1,6 @@
 # THz-Style-Spectral-Analysis
-THz-style Spectral Biomarker Extraction for EEG/EMG signals
+**THz-style Spectral Biomarker Extraction for EEG/EMG signals**
+
 This MATLAB script performs a time-frequency and spectral biomarker analysis inspired by THz spectroscopy approaches. It is compatible with MATLAB R2014a.
 
 <img width="1200" height="900" alt="THz_PCA_clusters" src="https://github.com/user-attachments/assets/62187465-9a8d-475b-9825-b51ff8d41424" />
